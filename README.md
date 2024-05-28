@@ -1,10 +1,10 @@
 ## Boas vindas ao meu perfl 💙
 
-meu nome é Maria Vitória
+Meu nome é Maria Vitória
 
-- Estou estudando na Alura
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
-- utilizo esse espaço para a minha organização e compartilhamento dos meus projetos desenvolvidos
+- Utilizo esse espaço para a minha organização e compartilhamento dos meus projetos desenvolvidos
 
 ### Você entrar em contato comigo 📫
 
